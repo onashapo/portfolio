@@ -1,4 +1,4 @@
-﻿# Onasha Mapatuna — Personal Protfolio
+﻿# Onasha Mapatuna — Personal Portfolio
 
 A personal portfolio website for **Onasha Mapatuna (歐娜夏)**
 
